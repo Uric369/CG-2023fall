@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(410,35): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(435,35): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(455,35): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(521,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(526,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(539,8): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(540,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(541,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(543,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(544,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(545,8): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(546,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(547,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(554,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(556,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(572,8): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(573,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(574,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(576,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(577,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(578,8): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(579,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(580,9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(588,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(617,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(618,16): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(622,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\57277\source\repos\Project4\Project4\main.cpp(623,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project4.vcxproj -> C:\Users\57277\source\repos\Project4\x64\Debug\Project4.exe
