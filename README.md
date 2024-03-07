@@ -1,7 +1,7 @@
 # SE3306 计算机图形学 Homework2 
 
 ## 项目目标
-该项目旨在使用OpenGL和Visual Studio 2022实现以下功能：
+该项目旨在使用OpenGL和Visual Studio 2022模拟小球击打陶瓷兔子，导致兔子碎裂的过程：
 
 - 导入obj模型
 - Obj模型的存储和加载
