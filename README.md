@@ -16,14 +16,14 @@
   - Geometry Shader：计算等距面网格、碎裂动画仿真（碎裂、碎片掉落）、断裂切面条带
   - Fragment Shader：光照
     
-  5.1 内外表面模型和断裂切面渲染基本流程
+    5.1 内外表面模型和断裂切面渲染基本流程
   
-  5.2 Geometry Shader：计算等距面网格，生成内表面
+    5.2 Geometry Shader：计算等距面网格，生成内表面
   
-  5.3 Geometry Shader：小球撞击 + 模型碎裂动画仿真
+    5.3 Geometry Shader：小球撞击 + 模型碎裂动画仿真
   
-  5.4 Geometry Shader：断裂切面条带
+    5.4 Geometry Shader：断裂切面条带
   
-  5.5 Fragment Shader：光照 -  Phong光照模型
+    5.5 Fragment Shader：光照 -  Phong光照模型
   
 6. 检测碰撞，计算碰撞位置
